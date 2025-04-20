@@ -56,15 +56,7 @@ cd MiniDIFramework_MINI_Projet
 Installer les dépendances avec Maven :
 ```java
 mvn exec:java
-
-
-
----
-
-Souhaite-tu que je l’intègre directement dans ton dépôt en tant que `README.md` prêt à pousser ?  
-Ou tu veux aussi une version en **anglais/français côte à côte** dans un seul fichier ?
 ```
-
 Pour exécuter le projet avec Maven :
 ```java
 mvn install
