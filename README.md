@@ -3,7 +3,6 @@
 Simplifiez la gestion des dépendances dans vos applications Java avec MiniDIFramework.
 
 ![last commit](https://img.shields.io/github/last-commit/IMADKHKHALIFI/MiniDIFramework_MINI_Projet)
-![language](https://img.shields.io/github/languages/top/IMADKHKHALIFI/MiniDIFramework_MINI_Projet)
 ![Java](https://img.shields.io/badge/java-100%25-blue)
 ![XML](https://img.shields.io/badge/XML-✔️-informational)
 
