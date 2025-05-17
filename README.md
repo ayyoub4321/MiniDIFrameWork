@@ -8,17 +8,6 @@ Simplifiez la gestion des dépendances dans vos applications Java avec MiniDIFra
 
 ---
 
-## Table des matières
-
-- [Aperçu](#aperçu)
-- [Pour commencer](#pour-commencer)
-  - [Prérequis](#prérequis)
-  - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Tests](#tests)
-
----
-
 ## 1. Introduction
 
 Ce projet propose un **mini‑framework d’injection de dépendances** (DI) inspiré de Spring IOC, avec deux modes de configuration :
