@@ -20,6 +20,7 @@ Ce projet illustre la création d’un **conteneur IoC** simple (à la manière 
 ---
 
 ## 🧱 2. Structure du Projet
+```
 MiniDIFramework/
 ├── pom.xml
 ├── src/
@@ -44,7 +45,7 @@ MiniDIFramework/
 │ │ └── beans.xml
 └── target/
 
----
+```
 
 ## ⚙️ 3. Fonctionnalités principales
 
